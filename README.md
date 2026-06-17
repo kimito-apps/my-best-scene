@@ -19,3 +19,9 @@
 
 - macOS (Apple Silicon)
 - Windows 10 / 11
+
+## ダウンロード
+
+最新版は以下からダウンロードできます。
+
+[GitHub Releases からダウンロード](https://github.com/kimito-apps/my-best-scene/releases)
